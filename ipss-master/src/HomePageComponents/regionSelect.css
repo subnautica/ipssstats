@@ -1,0 +1,14 @@
+.region-select{
+    height: 21vh;
+    border:cadetblue;
+    border-style: solid;
+}
+
+.item-image {
+    height: 80%;
+    width: 6%;
+}
+
+.country-name {
+    padding-left: 3%;
+}

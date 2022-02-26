@@ -1,0 +1,13 @@
+.menu-pop-list {
+    border-style: solid;
+    border-color: #3880ff;
+    
+}
+
+.menu-item{
+    background-color: #3880ff;
+}
+
+.menu-text {
+    padding-left: 5%;
+}

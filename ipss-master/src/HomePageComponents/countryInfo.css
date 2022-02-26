@@ -1,0 +1,15 @@
+.info-pane{
+    height: 21vh;
+    border-style: solid;
+    border-color: cadetblue;
+    border-width: 3px;
+}
+
+.pop-info{
+    height: 100%;
+    padding-left: 1vh;
+}
+
+.grid {
+   height: 100%
+}
